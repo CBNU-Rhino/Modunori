@@ -14,7 +14,7 @@ spring:
 
   kakao:
     client_id: 9e7786142c02ceecc7551f66b0d94383
-    client-secret: sshFcbRxOgpfqUirZlcWx4Qa4KmuZuxL
+    client-secret: DK8gmXmpruYgfqfwJynChlrDgFsdrKL5
     redirect_uri: http://localhost:8080/callback
     authorization-grant-type: authorization_code
     client-authentication-method: POST

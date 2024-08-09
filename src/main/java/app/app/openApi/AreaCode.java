@@ -28,7 +28,7 @@ public class AreaCode {
     @Column(name = "name")
     private String name;
 
-    public AreaCode(Long openApiId, Long rNum, String code, String name) {
+    public AreaCode(Long openApiId, String code, String name) {
         this.openApiId = openApiId;
         this.rNum = rNum;
         this.code = code;
